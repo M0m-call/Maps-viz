@@ -1,6 +1,7 @@
 # Maps-viz
 
-This code is born out of the following intution that I wanted to verify regarding holomrphic function:
+This code is born out of the following intution that I wanted to verify regarding holomrphic functions.
+
 warning :Math stuff ahead !
 
 " Take an open ball of radii r around a point p  in the complex plane , 

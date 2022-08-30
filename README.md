@@ -1,5 +1,11 @@
 # Maps-viz
 
+This piece of code allows you to visualize your functions from R ro R 
+Or from C to C
+
+![fun](https://user-images.githubusercontent.com/63225559/187446867-94a383ec-5d6d-4998-a5ec-dba27979259a.png)
+
+
 This code is born out of the following intution that I wanted to verify regarding holomrphic functions.
 
 warning :Math stuff ahead !
@@ -11,8 +17,7 @@ magnitude of the derivative at that point p "
 
 I wanted to do the same thing for Real valued function and hence the r to r file.
 
-This piece of code allows you to visualize your functions from R ro R 
-Or from C to C
+
 
 What have I done here is as follows:
 
@@ -21,5 +26,6 @@ than plotting it as a polar graph via matplotlib
 
 than I'm applying our desired function to that array
 and again plotting it in complex plane/Real line.
+
 
 
